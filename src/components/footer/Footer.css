@@ -1,0 +1,30 @@
+
+.footer p{
+    display: flex;
+    justify-content: center;
+   padding: 10px ; 
+   font-size: 20px;
+}
+.name{
+    /* background: linear-gradient(270deg,#ef5a8c 20%,#b415ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    color: white;
+    padding-left: 10px;
+}
+.line{
+    
+   padding-bottom: 5px;
+    margin: 0 100px;
+}
+@media (max-width:431px){
+    .footer{
+        width: 100%;
+        margin-left: 200px;
+    }
+    .line{
+        display: none;
+    }
+    
+}
