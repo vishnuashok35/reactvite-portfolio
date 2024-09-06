@@ -1,6 +1,6 @@
 import project_1 from '../assets/newyorktimes.png'
 import project_2 from '../assets/xiaomi.png'
-import project_3 from '../assets/portfolio2.png'
+import project_3 from '../assets/todo.png'
 import project_4 from '../assets/portfolio.png'
 
 import project_5 from '../assets/digital-clock.png'
@@ -22,7 +22,7 @@ const Mywork_Data=[
     },
     {
         w_no:'3',
-        w_name:'personal website using html,css,java script',
+        w_name:'ToDo app using React Js',
         w_img:project_3
     },
     {
